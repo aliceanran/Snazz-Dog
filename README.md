@@ -1,3 +1,3 @@
 # Snazz-Dog
-dog hairdresser
-snazzz up the dog!! 
+dog hairdresser<br>
+snazz up the dog!! 
